@@ -1,0 +1,45 @@
+{
+  "login": [
+    {
+      "id": 6,
+      "name": "Mrs. Dennis Schulist",
+      "username": "Bomo1",
+      "email": "Karley_Dach@jasper.info",
+      "otp": "23410"
+    }
+  ],
+  "users": [
+    {
+      "name": "Molia",
+      "email": "13",
+      "username": "Molia",
+      "phone": "323jhgjhgjh",
+      "website": "dukan",
+      "id": 11
+    },
+    {
+      "name": "ghghg",
+      "email": "Ramesh",
+      "username": "rohaasnd",
+      "phone": "3300",
+      "website": "web",
+      "id": 13
+    },
+    {
+      "name": "Raman Sharma",
+      "email": "Raghuram",
+      "username": "32",
+      "phone": "1000",
+      "website": "Hi I like this project",
+      "id": 14
+    },
+    {
+      "name": "Karan",
+      "email": "Mahesh",
+      "username": "12",
+      "phone": "300",
+      "website": "I also want to know more about it",
+      "id": 15
+    }
+  ]
+}
